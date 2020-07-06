@@ -1,2 +1,2 @@
 # Calculator
-Calculator with python
+Calculator using python
